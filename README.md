@@ -4,4 +4,7 @@ Learn Golang
 ### package
 ### import
 ### fuction
- 
+
+
+main()
+test()
