@@ -7,4 +7,4 @@ Learn Golang
 
 
 main()
-test()
+test*T()
